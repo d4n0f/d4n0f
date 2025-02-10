@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍🎓 Studying Computer Science at University of Debrecen<br>👨🏻‍💻 Bringing ideas to life with code<br>💡 Making people's lives better through creativity & video (or at least mine)<br>🎬 Hobbyist video creator, exploring the world of filmmaking in my free time
+🧑🏻‍🎓 Studying Computer Science at University of Debrecen<br>👨🏻‍💻 Bringing ideas to life with code<br>🎬 Hobbyist video creator, exploring the world of filmmaking in my free time<br>💡 Making people's lives better through creativity & video (or at least mine)
 
 
 ## 🌐 Socials:
