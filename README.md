@@ -7,7 +7,7 @@ I’m a student at University of Debrecen with a passion for programming and bui
 
 ---
 
-### 💻 Languages and Tools:
+### 🧰 Languages and Tools:
 <img align="left" alt=".NET" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="C#" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Java" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
