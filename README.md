@@ -1,4 +1,4 @@
-# 👨🏻‍💻Bálint Fónad
+# 👨🏻‍💻 Bálint Fónad
 
 **`Action Over Dreams (Student/Developer/Entrepreneur)`**
 <br>
@@ -27,13 +27,6 @@ I’m a student at University of Debrecen with a passion for programming and bui
 - 🌐 Web Development
 - 🤖 Artificial Intelligence
 - 🎬 Visual Creation
-
-#
-
-### 📬 Connect with Me:
-
-[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/balintfonad/)
-[![My Email](https://skillicons.dev/icons?i=gmail)](mailto:fonadbalint04@gmail.com)
 
 #
 
