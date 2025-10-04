@@ -1,12 +1,42 @@
-# 💫 About Me:
-🧑🏻‍🎓 Studying Computer Science at University of Debrecen<br>👨🏻‍💻 Bringing ideas to life with code<br>🎬 Hobbyist video creator, exploring the world of filmmaking in my free time<br>💡 Making people's lives better through creativity & video (or at least mine)
+# 👨🏻‍💻Bálint Fónad
 
+**`Action Over Dreams (Student/Developer/Entrepreneur)`**
+<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/balintfonad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fonadbalint04@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@balintfonad)
+I’m a student at University of Debrecen with a passion for programming and building projects that simplify life. I also enjoy modeling, animation, and all forms of digital creation. As an entrepreneur, I strive to create solutions that make life easier for others.
 
-# 💻 Tech Stack:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-%23F05138?style=for-the-badge&logo=swift&logoColor=%23FFFFFF&logoSize=auto) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-Oracle_SQL_Developer?style=for-the-badge&color=%23e8721e) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)<br> ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)<br> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<!-- <br>  ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) -->
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Languages and Tools:
+<img align="left" alt=".NET" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="C#" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Java" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Swift" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+<img align="left" alt="Git" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="MySQL" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Premiere Pro" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
+<img align="left" alt="Blender" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+
+<br><br>
+
+#
+
+### 🎯 Interests:
+- 🌐 Web Development
+- 🤖 Artificial Intelligence
+- 🎬 Visual Creation
+
+#
+
+### 📬 Connect with Me:
+
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/balintfonad/)
+[![My Email](https://skillicons.dev/icons?i=gmail)](mailto:fonadbalint04@gmail.com)
+
+#
+
+### 📊 Stats
+
+![Bálint's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4n0f&show_icons=true&theme=radical)
