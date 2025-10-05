@@ -18,6 +18,7 @@ I’m a student at University of Debrecen with a passion for programming and bui
 <img align="left" alt="MySQL" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Premiere Pro" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
 <img align="left" alt="Blender" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+<img align="left" alt="Blender" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 
 <br><br>
 
