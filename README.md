@@ -10,6 +10,7 @@ I'm a Junior AI Developer, currently studying computer science at University of 
 ### 🧰 Languages and Tools:
 <img align="left" alt="NodeJS" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
 <img align="left" alt="JavaScript" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Java" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt=".NET" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="C#" width="45px" style="padding-right:8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -34,4 +35,4 @@ I'm a Junior AI Developer, currently studying computer science at University of 
 
 ### 📊 Stats
 
-[![Bálint's GitHub stats](https://github-stats-extended.vercel.app/api?username=d4n0f&theme=dark&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+[![Bálint's GitHub stats](https://github-stats-extended.vercel.app/api?username=balintfonad&theme=dark&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
